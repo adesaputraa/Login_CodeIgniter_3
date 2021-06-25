@@ -56,9 +56,20 @@ Resources
 Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
 or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
 
-***************
-Acknowledgement
-***************
 
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+***************
+Sistem Login Lengkap
+***************
+-  Login & Registrasi
+-  User Access Level
+-  Menu Management
+-  User Management
+-  User Activation
+-  Forgot Password
+
+
+***************
+Sumber & Tutorial
+***************
+- Chanel Youtube (sandhika galih)
+-  https://www.youtube.com/watch?v=8ROgaHfLRq0&list=PLFIM0718LjIXU8ul9FiN-owk04cQKtHPw&index=1
